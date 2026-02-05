@@ -25,18 +25,16 @@ Para visualizar os exemplos, você pode clonar este repositório e abrir os arqu
 ## Capítulos
 
 - Capítulo 1: Apresentação
-  - [index.html](http://jocile.github.io/capitulo_1/index.html)
-  - [cart.html](http://jocile.github.io/capitulo_01/cart.html)
+  - [index.html](https://jocile.github.io/livro-js-jquery/capitulo_01/index.html)
 - Capítulo 2: Refazendo uma loja virtual
-  - [index.html](http://jocile.github.io/capitulo_2/index.html)
-  - [cart.html](http://jocile.github.io/capitulo_2/cart.html)
+  - [cart.html](https://jocile.github.io/livro-js-jquery/capitulo_02/cart.html)
 - Capítulo 3: Adicionando JavaScript
 - Capítulo 4: Um JavaScript diferente em cada navegador
 - Capítulo 5: Simplifique com jQuery
-  - [entenda_jquery.html](http://jocile.github.io/capitulo_05/4.3-entenda_jquery.html)
-  - [cart.html](http://jocile.github.io/capitulo_05/cart.html)
-  - [index.html](http://jocile.github.io/capitulo_5/index.html)
+  - [entenda_jquery.html](https://jocile.github.io/livro-js-jquery/capitulo_05/4.3-entenda_jquery.html)
+  - [cart.html](https://jocile.github.io/livro-js-jquery/capitulo_05/cart.html)
 - Capítulo 6: Dominando eventos e manipulação de DOM com jQuery
+  - [todo.html](https://jocile.github.io/livro-js-jquery/capitulo_06/todo.html)
 - Capítulo 7: Não tenha medo do AJAX e do JSON
 - Capítulo 8: Um gerenciador de tarefas com AJAX
 - Capítulo 9: jQuery UI
@@ -44,6 +42,6 @@ Para visualizar os exemplos, você pode clonar este repositório e abrir os arqu
 - Capítulo 11: Orientação a objetos no JavaScript
 - Capítulo 12: Um pouco de programação funcional
 - Capítulo 13: Criando plugins para jQuery
-  - [index.html](http://jocile.github.io/capitulo_13/index.html)
+  - [index.html](https://jocile.github.io/livro-js-jquery/capitulo_13/index.html)
 - Capítulo 14: Dicas para usar melhor o jQuery
 - Capítulo 15: E o que vem agora?
